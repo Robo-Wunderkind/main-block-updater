@@ -48,3 +48,7 @@ During the update, keep the main block switched on and close to the computer.
 ## If something goes wrong
 
 Each run saves a log file named `robo_update_<date>_<time>.log` next to the updater. Send that file to Robo Wunderkind support; it shows exactly where the update stopped.
+
+## License
+
+Free to use for updating Robo Wunderkind main blocks, and free to share unmodified; see [LICENSE](LICENSE). The updater includes third-party components under their own licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

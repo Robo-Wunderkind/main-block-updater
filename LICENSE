@@ -1,0 +1,53 @@
+Copyright (c) 2026 Robo Wunderkind Inc. All rights reserved.
+
+Robo Wunderkind Main Block Updater - End User License
+
+This license covers the Robo Wunderkind Main Block Updater (the "Software"),
+published by Robo Wunderkind Inc. (the "Company").
+
+1. Permission to use. The Company grants you, free of charge, a
+   non-exclusive, non-transferable permission to download, install and run
+   the Software to update the firmware of Robo Wunderkind products that you
+   own or administer, such as a school's or an organisation's main blocks.
+
+2. Sharing. You may share unmodified copies of the Software free of charge.
+   Please share the official download page instead where you can, because a
+   copy does not update itself.
+
+3. Restrictions. You may not:
+   (a) modify the Software or create works based on it;
+   (b) decompile, disassemble or reverse engineer the Software, except to the
+       extent applicable law expressly permits this despite this restriction;
+   (c) sell, rent, lease or sublicense the Software, or charge for it; or
+   (d) remove or alter any copyright, license or other notice in it.
+
+4. Firmware. Firmware that the Software downloads and installs is the
+   property of the Company. It is licensed for use only on Robo Wunderkind
+   products and may not be extracted, modified or redistributed.
+
+5. Third-party components. The Software includes third-party components
+   that are licensed under their own terms, listed in THIRD_PARTY_NOTICES.md.
+   Nothing in this license limits any right those terms give you.
+
+6. Ownership. The Software is licensed, not sold. The Company keeps all
+   rights not expressly granted here.
+
+7. Termination. This permission ends automatically if you breach these
+   terms. You must then stop using and sharing the Software.
+
+8. No warranty and limitation of liability. Updating firmware carries a
+   risk: interrupting an update, for example by switching off or moving the
+   main block out of range, can leave it unable to start until it is
+   updated again. You are responsible for keeping the main block powered and
+   nearby during an update.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   COMPANY BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+   Some jurisdictions do not allow certain warranties or liability to be
+   excluded. In those jurisdictions the exclusions above apply only as far as
+   the law allows, and your statutory rights as a consumer are not affected.
