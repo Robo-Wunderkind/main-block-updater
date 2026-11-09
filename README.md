@@ -8,9 +8,9 @@ These links always give you the newest version.
 
 | Your computer | Download |
 |---|---|
-| Windows 10 or 11 | [RoboHotspotUpdater-Windows.exe](https://github.com/Robo-Wunderkind/main-block-updater/releases/latest/download/RoboHotspotUpdater-Windows.exe) |
-| Mac with Apple silicon (M1 or later) | [RoboHotspotUpdater-Mac-AppleSilicon.tar.gz](https://github.com/Robo-Wunderkind/main-block-updater/releases/latest/download/RoboHotspotUpdater-Mac-AppleSilicon.tar.gz) |
-| Mac with an Intel processor | [RoboHotspotUpdater-Mac-Intel.tar.gz](https://github.com/Robo-Wunderkind/main-block-updater/releases/latest/download/RoboHotspotUpdater-Mac-Intel.tar.gz) |
+| Windows 10 or 11 | [RoboMainBlockUpdater.exe](https://github.com/Robo-Wunderkind/main-block-updater/releases/latest/download/RoboMainBlockUpdater.exe) |
+| Mac with Apple silicon (M1 or later) | [RoboMainBlockUpdater-Mac-AppleSilicon.tar.gz](https://github.com/Robo-Wunderkind/main-block-updater/releases/latest/download/RoboMainBlockUpdater-Mac-AppleSilicon.tar.gz) |
+| Mac with an Intel processor | [RoboMainBlockUpdater-Mac-Intel.tar.gz](https://github.com/Robo-Wunderkind/main-block-updater/releases/latest/download/RoboMainBlockUpdater-Mac-Intel.tar.gz) |
 
 To check which kind of Mac you have, open the Apple menu and choose **About This Mac**. It lists a **Chip** (Apple silicon) or a **Processor** (Intel).
 
@@ -26,13 +26,13 @@ Nothing else needs to be installed.
 
 **Windows**
 
-1. Double-click `RoboHotspotUpdater-Windows.exe`.
+1. Double-click `RoboMainBlockUpdater.exe`.
 2. If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**.
 
 **Mac**
 
 1. Double-click the downloaded `.tar.gz` file to unpack it.
-2. Double-click `RoboHotspotUpdater-Mac-…`. It opens in Terminal.
+2. Double-click `RoboMainBlockUpdater`. It opens in Terminal.
 3. If macOS says it can't be opened, go to **System Settings → Privacy & Security** and click **Open Anyway**.
 4. When macOS asks whether Terminal may use Bluetooth, click **Allow**.
 
